@@ -22,6 +22,15 @@ dependencies {
 }
 ```
 
+**Step 3.** Show Dialog In Your App:
+```
+//to show dialog
+RadialProgressDialog.showRadialProgressDialog(MainActivity.this, true);
+
+//to dismiss dialog
+RadialProgressDialog.showRadialProgressDialog(MainActivity.this, false);
+```
+
 ## Have A Good Day
 
 **Ta-TA 👋🏻**
