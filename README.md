@@ -18,7 +18,7 @@ allprojects {
 **Step 2.** Add the dependency:
 ```
 dependencies {
-	implementation 'com.github.apurboislam:RedialProgressView:Tag'
+	implementation 'com.github.apurboislam:RedialProgressView:V1.0'
 }
 ```
 
