@@ -1,17 +1,17 @@
-package com.softbahi.radialprogressview;
+package com.softbahi.example;
 
 
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Paint;
-import android.graphics.Paint;
 import android.graphics.RectF;
 import android.graphics.drawable.Drawable;
-import android.os.Bundle;
 import android.view.View;
 import android.view.animation.AccelerateInterpolator;
 import android.view.animation.DecelerateInterpolator;
 import androidx.annotation.Keep;
+
+import com.softbahi.radialprogressview.R;
 
 public class RadialProgressView extends View {
  

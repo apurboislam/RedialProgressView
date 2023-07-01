@@ -1,4 +1,4 @@
-package com.softbahi.radialprogressview;
+package com.softbahi.example;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.softbahi.radialprogressview.test", appContext.getPackageName());
+        assertEquals("com.softbahi.radialprogressview", appContext.getPackageName());
     }
 }

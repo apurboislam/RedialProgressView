@@ -1,9 +1,11 @@
-package com.softbahi.radialprogressview;
+package com.softbahi.example;
 
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.graphics.drawable.ColorDrawable;
 import android.widget.LinearLayout;
+
+import com.softbahi.radialprogressview.R;
 
 public class RadialProgressDialog {
     static ProgressDialog coreprog;

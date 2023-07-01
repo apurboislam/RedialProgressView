@@ -1,4 +1,4 @@
-package com.softbahi.radialprogressview;
+package com.softbahi.example;
 
 import org.junit.Test;
 

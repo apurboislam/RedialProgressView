@@ -1,8 +1,10 @@
-package com.softbahi.radialprogressview;
+package com.softbahi.example;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.softbahi.radialprogressview.R;
 
 public class MainActivity extends AppCompatActivity {
 
